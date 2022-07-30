@@ -2,8 +2,5 @@
 
 ![alt text](https://github.com/rdrgbaioco/Learning_Dart/blob/main/img/dart_project.png?raw=true)
 
-## What is Dart?
-
-## Variations of Dart
- - Dart compara referências de objetos, ao invés de comparar endereços de memória (pointer/ propriedades). PT-BR
- - Dart compares object references, instead of comparing memory addresses (pointer/properties). EN-US
+![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter Badge](https://img.shields.io/badge/Flutter-2cb7f6?style=for-the-badge&logo=flutter&logoColor=white)
